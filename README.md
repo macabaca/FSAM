@@ -80,7 +80,7 @@ Due to storage limitations, the datasets are hosted externally. We provide the p
 ### 📥 Download
 You can download the full `dataset.zip` archive from the following link:
 
-[**[[Google Drive] Download Datasets](https://drive.google.com/file/d/1w42Aoa3aBR2TtuKd-C7wL3eK55vvhZrZ/view?usp=sharing)**](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[**[[Google Drive] Download Datasets](https://drive.google.com/file/d/1w42Aoa3aBR2TtuKd-C7wL3eK55vvhZrZ/view?usp=sharing)**]
 
 ### 📂 Setup
 1. Download `dataset.zip` from the link above.

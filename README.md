@@ -75,13 +75,17 @@ bash scripts/FSAM/ettm2_best.sh
 
 ## Dataset
 
-The project supports multiple time series datasets:
+Due to storage limitations, the datasets are hosted externally. We provide the pre-processed datasets on Google Drive.
 
-- **ECL**: Electricity consumption data
-- **ETT**: Electricity Transformer Temperature (ETTh1, ETTh2, ETTm1, ETTm2)
-- **Weather**: Weather forecasting data
-- **Solar**: Solar energy production data
-- **Traffic**: Traffic flow data
+### 📥 Download
+You can download the full `dataset.zip` archive from the following link:
+
+[**[[Google Drive] Download Datasets](https://drive.google.com/file/d/1w42Aoa3aBR2TtuKd-C7wL3eK55vvhZrZ/view?usp=sharing)**](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+### 📂 Setup
+1. Download `dataset.zip` from the link above.
+2. Unzip the file to the root directory of this project.
+3. Ensure the directory structure matches the tree below:
 
 Datasets should be placed in the `dataset/` directory with the following structure:
 ```
